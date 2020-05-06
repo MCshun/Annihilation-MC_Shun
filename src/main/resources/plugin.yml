@@ -1,0 +1,6 @@
+main: "com.github.eighty88.annihilation"
+name: "Annihilation Plugin"
+version: "${project.version}"
+api-version: "1.8"
+author: "eight_y_88, MC_Shun"
+website: "None"
